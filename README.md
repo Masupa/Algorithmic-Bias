@@ -52,3 +52,6 @@ Therefore, my objectives for this project were the following:
   
   Classification Results
   ![alt text](https://github.com/Masupa/Algorithmic-Bias/blob/main/assets/app_imgs_classification_report.png)
+  
+ &nbsp;
+ ## Adding More Info...
