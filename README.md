@@ -44,3 +44,11 @@ Therefore, my objectives for this project were the following:
 &nbsp;
 ## Part IV - App Screenshots
   
+  First Screen - Allow to upload Models
+  ![alt text](https://github.com/Masupa/Algorithmic-Bias/blob/main/assets/app_img_one.png)
+  
+  Image Classifier
+  ![alt text](https://github.com/Masupa/Algorithmic-Bias/blob/main/assets/app_img_two.png)
+  
+  Classification Results
+  ![alt text](https://github.com/Masupa/Algorithmic-Bias/blob/main/assets/app_imgs_classification_report.png)
